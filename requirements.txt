@@ -1,0 +1,5 @@
+langchain==0.0.190
+huggingface_hub==0.15.1
+chainlit==0.2.109
+python-dotenv==1.0.0
+neo4j==5.10.0
