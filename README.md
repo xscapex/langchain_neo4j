@@ -1,12 +1,14 @@
-# langchain_neo4j
+# Langchain + Neo4j + Chainlit
 
-Talk with your neo4j (graph database).
+Talk with your neo4j with a chatbot (graph database).
 
 ## Demo
 
 https://github.com/xscapex/langchain_neo4j/assets/38449391/62c24010-f246-4e21-8467-6a44732b59ac
 
 ## Structure
+
+![structure](https://github.com/xscapex/langchain_neo4j/assets/38449391/4bbc3ed1-9caf-4822-b28f-ef6d4b994c48)
 
 ## Step 1: Install packages 
 
