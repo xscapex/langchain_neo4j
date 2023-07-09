@@ -21,5 +21,5 @@ NEO4J_URL="your neo4j URL"
 
 # Step 3:
 
-chainlit run langchain_aura.py -w
+`chainlit run langchain_aura.py -w`
 
