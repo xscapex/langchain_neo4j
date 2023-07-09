@@ -1,6 +1,6 @@
-# Langchain + Neo4j + Chainlit
+# Langchain + Neo4j + Chainlit 🚀
 
-Talk with your neo4j with a chatbot (graph database).
+Talk with your neo4j with a chatbot (graph database). 🔥 🔥
 
 ## Demo
 
