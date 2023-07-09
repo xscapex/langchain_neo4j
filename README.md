@@ -13,7 +13,7 @@ https://github.com/xscapex/langchain_neo4j/assets/38449391/62c24010-f246-4e21-84
 ## Step 1: Install packages 
 
 ```
-! pip install -r requirements.txt
+pip install -r requirements.txt
 sudo pip install chainlit==0.2.109
 ```
 ## Step 2: Updated your .env file
